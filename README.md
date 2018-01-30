@@ -1,1 +1,1 @@
-# example_balackstopjs
+# example_backstopjs
